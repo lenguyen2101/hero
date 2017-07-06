@@ -216,7 +216,7 @@
           "_anchor": "msg-box3-3",
           "_params": {
             "paddingTop": "4",
-            "paddingBottom": "0",
+            "paddingBottom": "3",
             "parallax": false,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/asset-1-2000x1154.png",
