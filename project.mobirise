@@ -180,7 +180,7 @@
     },
     "Hero.html": {
       "settings": {
-        "title": "Web Page Generator Title",
+        "title": "Hero ",
         "meta_descr": "Web Page Generator Description",
         "order": 1
       },
@@ -272,7 +272,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/icon1-600x600.png",
+              "src": "@PROJECT_PATH@/assets/images/icon1-1-600x600.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -288,7 +288,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/icon2-600x600.png",
+              "src": "@PROJECT_PATH@/assets/images/icon2-2-600x600.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -304,7 +304,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/icon3-600x600.png",
+              "src": "@PROJECT_PATH@/assets/images/icon3-2-600x600.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
