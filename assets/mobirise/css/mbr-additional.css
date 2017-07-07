@@ -487,6 +487,7 @@ h6,
 #header1-1 .mbr-section-lead {
   color: #000000;
 }
+
 #msg-box3-3 .mbr-section-title,
 #msg-box3-3 p {
   color: #000;
@@ -494,22 +495,41 @@ h6,
 #features3-8 H4 {
   color: #553982;
 }
-#pricing-table2-9 .mbr-plan-header,
-#pricing-table2-9 .mbr-plan-body {
-  background-color: #f4f4f4;
+#header3-a .mbr-section-title,
+#header3-a .mbr-section-subtitle {
+  text-align: center;
 }
-#pricing-table2-9 ul,
-#pricing-table2-9 .mbr-plan-title,
-#pricing-table2-9 .mbr-price-value,
-#pricing-table2-9 .mbr-price-figure,
-#pricing-table2-9 .mbr-price-term {
-  color: #28262b;
+#header3-a H3 {
+  color: #faaf40;
 }
-#pricing-table2-9 .mbr-plan {
-  border-color: #e8e8e8;
+#features1-b .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #efefef;
 }
-#pricing-table2-9 .mbr-plan .list-group-item {
-  border-color: #cfcfcf;
+#features1-b .mbr-cards-col:nth-child(odd) .card-title {
+  color: #553982;
+}
+#features1-b .mbr-cards-col:nth-child(even) .card-title {
+  color: #553982;
+}
+#features1-b .mbr-cards-col:nth-child(odd) .card-text {
+  color: #28324e;
+  font-size: 17px;
+}
+#features1-b .mbr-cards-col:nth-child(even) .card-text {
+  font-size: 17px;
+}
+#header3-c .mbr-section-title,
+#header3-c .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-c H3 {
+  font-size: 24px;
+}
+#image2-d DIV {
+  font-family: 'Montserrat', sans-serif;
+}
+#image2-d B {
+  font-size: 30px;
 }
 #social-buttons4-6 .mbr-section-title,
 #social-buttons4-6 .btn-social {
