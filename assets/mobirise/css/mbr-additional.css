@@ -512,7 +512,7 @@ h6,
   color: #553982;
 }
 #features1-b .mbr-cards-col:nth-child(odd) .card-text {
-  color: #28324e;
+  color: #000000;
   font-size: 17px;
 }
 #features1-b .mbr-cards-col:nth-child(even) .card-text {

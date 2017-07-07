@@ -455,7 +455,7 @@
               "color": "#553982"
             },
             ".mbr-cards-col:nth-child(odd) .card-text": {
-              "color": "#28324e",
+              "color": "#000000",
               "font-size": "17px"
             },
             ".mbr-cards-col:nth-child(even) .card-text": {
@@ -579,7 +579,7 @@
             "bgColor": "#f7da64",
             "showMeta": true
           },
-          "title": "(50.000VNĐ phí dịch \u001bvụ từ 18h)",
+          "title": "(50.000VNĐ phí dịch vụ từ 18h)",
           "meta": ""
         },
         {
